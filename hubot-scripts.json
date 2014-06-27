@@ -1,1 +1,12 @@
-["redis-brain.coffee", "shipit.coffee", "homer.coffee", "marvin-quotes.coffee", "nice.coffee"]
+[
+ "redis-brain.coffee",
+ "shipit.coffee",
+ "homer.coffee",
+ "marvin-quotes.coffee",
+ "nice.coffee",
+ "zombies.coffee",
+ "polite.coffee",
+ "hello.coffee",
+ "bepolite.coffee",
+ "talkative.coffee"
+]
